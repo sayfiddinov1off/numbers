@@ -29,3 +29,19 @@
 //     return num.toFixed(0);
 // }
 // console.log(roun);
+
+
+//5
+// function sqrt(a ) {
+//   let x, x1 = a / 2;
+//   do {
+//       x = x1;
+//       x1 = (x + (a / x)) / 2;
+//   } while (x !== x1);
+//   return x;
+// }
+// let square = sqrt(100);
+// console.log(square);
+
+
+
